@@ -56,6 +56,7 @@ const Container = styled.div`
     scroll-snap-align: center;
     display: flex;
     justify-content: space-between;
+    padding-bottom: 4rem;
 
     @media only screen and (max-width: 768px) {  
         width: 100%; 

@@ -1,0 +1,8 @@
+* {
+     background-color: #42210d; 
+}
+
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    background: #ffc082;
+}

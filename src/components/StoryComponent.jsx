@@ -41,7 +41,7 @@ const Desc = styled.div`
 const StoryComponent = () => {
   return (
     <Container>
-        <Canvas camera={{fov: 100}}>
+        <Canvas camera={{fov: 120}}>
             <OrbitControls enableZoom={false} autoRotate/>
             <Stage preset="rembrandt" intensity={1} environment="city">
                 <Book />

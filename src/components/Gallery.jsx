@@ -95,7 +95,7 @@ const Title = styled.h1`
 
 const SwiperImg = styled.img` 
     width: 80rem;
-    height: 50rem;
+    height: 40rem;
     aspect-ratio: 1/1;
     overflow: hidden;
     border-radius: 1rem;

@@ -141,7 +141,7 @@ const Navbar = () => {
     <Section>
         <Container>
             <Links>
-                <Logo src="./img/ottf.png" />
+                <Logo src="/img/ottf.png" />
                 <List>
                     <ListItem><Link to="hero" spy={true} smooth={true} offset={50} duration={500}>Home</Link></ListItem>
                     <ListItem><Link to="about" spy={true} smooth={true} offset={50} duration={500}>About</Link></ListItem>
@@ -151,7 +151,7 @@ const Navbar = () => {
                 </List>
             </Links>
             <Icons>
-                <Icon src="./img/search.png" />
+                <Icon src="/img/search.png" />
                 <Link to="contact" spy={true} smooth={true} offset={50} duration={500}><Button>Vacancies</Button></Link>
             </Icons> 
         </Container>

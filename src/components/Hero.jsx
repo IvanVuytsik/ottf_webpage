@@ -135,7 +135,6 @@ const Right = styled.div`
         width: 100%;
         height: 20rem; 
     }
-
 `
 
 const Img = styled.img` 
@@ -167,8 +166,6 @@ const Img = styled.img`
         width: 20rem;
         height: 20rem;
     }
-
-
 `
 
 const Hero = () => {
